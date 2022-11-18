@@ -3,7 +3,21 @@ layout: inner
 title: About
 permalink: /about/
 ---
+<div class="row" style="padding-top: 50px;">
+    <div class="col-md-12">
+        {% if site.about_title != '' %}
+        <h2 class="section-title text-center">{{ site.about_title }}</h2>
+        {% endif %}
+        {% if site.about_subtitle != '' %}
+        <p class="section-subtitle text-center">{{ site.about_subtitle }}</p>
+        {% endif %}
+    </div>
+</div>
+
+<br/>
+
 ![Cover](/img/intro/01_cover.png)
+
 <br/>
 <br/>
 

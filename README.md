@@ -1,9 +1,9 @@
 ## ETRI-XAINLP.github.io
 
-Software Repositories for XAINLP Project
+<br/>
 
----
 ![Cover](/img/intro/01_cover.png)
+
 <br/>
 <br/>
 
