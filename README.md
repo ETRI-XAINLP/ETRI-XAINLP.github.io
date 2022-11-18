@@ -16,15 +16,11 @@ Here are some steps to get you started:
   git clone https://github.com/jamigibbs/phantom.git your-dir-name && cd your-dir-name
   ```
 
-2. Run:
+2. Run Jekyll:
 
   ```bash
-  gem install bundler
-  bundle install
   bundle exec jekyll serve
   ```
-
-  You may need to append your commands with `sudo` if you're getting a permissions error.
 
   _Don't have Jekyll yet? [Get `er installed then!](http://jekyllrb.com/docs/installation/)_
 
