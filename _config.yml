@@ -22,13 +22,13 @@ plugins:
 # in the templates via {{ site.myvariable }}.
 url: "https://etri-xainlp.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-image: "https://raw.githubusercontent.com/ETRI-XAINLP/ETRI-XAINLP.github.io/master/img/intro/01_cover.png"
+image: "/img/intro/01_cover.png"
 title: "XAINLP Project"
 description: "전문가 의사결정 지원 인공지능 기술 개발"
 home_title: "Software Reposotiries"
 home_subtitle: "프로젝트를 통해 개발된 소프트웨어입니다."
 about_title: "Project Introduction"
-about_subtitle: ""
+about_subtitle: "프로젝트에 대한 개략적인 소개입니다."
 github_username: ""
 medium_username: ""
 twitter_username: ""
@@ -37,8 +37,10 @@ twitter_username: ""
 # Phantom settings
 paginate: 5
 header_text: "XAINLP Project"
+header_link: "/"
 footer_text: "© 2022 XAINLP Project"
+footer_link: "/about"
 enable_nav: true
 nav_item:
-  - { url: "/", text: "Reposotiries" }
   - { url: "/about", text: "About" }
+  - { url: "/#portfolio", text: "Reposotiries" }
