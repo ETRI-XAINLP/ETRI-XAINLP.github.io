@@ -8,35 +8,34 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+############################################################
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+
+############################################################
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello. I'm Jami Gibbs."
-email: 'jami0821@gmail.com'
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
+url: "https://etri-xainlp.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 'jamigibbs'
-github_username: 'jamigibbs'
-medium_username: 'blog.jamigibbs.com'
+title: "XAINLP Project"
+description: "전문가 의사결정 지원 인공지능 기술 개발"
+portfolio_title: "Software Reposotiries"
+portfolio_subtitle: "프로젝트를 통해 개발된 소프트웨어입니다."
+github_username: "ETRI-XAINLP"
+medium_username: ""
+twitter_username: ""
 
-# Build settings
-markdown: kramdown
-# theme: phantom # Uncomment once published to RubyGems
-plugins:
-  - jekyll-paginate
-
-### Phantom settings
+############################################################
+# Phantom settings
 paginate: 10
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
-enable_contact: false
-
-#### Phantom Navigation menu
+header_text: "XAINLP Project"
+footer_text: "© 2022 XAINLP Project"
 enable_nav: true
 nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
+  - { url: "/", text: "Reposotiries" }
+  - { url: "/about", text: "About" }

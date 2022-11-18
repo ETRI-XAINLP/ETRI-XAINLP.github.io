@@ -197,8 +197,8 @@ body {
 {% highlight yaml %}
 ### Phantom settings
 paginate: 10
+header_text: 'Jami Gibbs'
 footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 
 #### Phantom Navigation menu
