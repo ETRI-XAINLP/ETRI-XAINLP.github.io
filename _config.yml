@@ -24,15 +24,15 @@ url: "https://etri-xainlp.github.io/" # the base hostname & protocol for your si
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "XAINLP Project"
 description: "전문가 의사결정 지원 인공지능 기술 개발"
-portfolio_title: "Software Reposotiries"
-portfolio_subtitle: "프로젝트를 통해 개발된 소프트웨어입니다."
+section_title: "Software Reposotiries"
+section_subtitle: "프로젝트를 통해 개발된 소프트웨어입니다."
 github_username: "ETRI-XAINLP"
 medium_username: ""
 twitter_username: ""
 
 ############################################################
 # Phantom settings
-paginate: 10
+paginate: 2
 header_text: "XAINLP Project"
 footer_text: "© 2022 XAINLP Project"
 enable_nav: true
