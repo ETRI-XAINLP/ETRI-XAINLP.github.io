@@ -39,8 +39,8 @@ permalink: /about/
 
 <br/>
 
-### [Software Reposotiries](https://etri-xainlp.github.io/)
+### [Software Reposotiries](https://etri-xainlp.github.io/#portfolio)
 
-> [![Software](/img/intro/05_repository.png)](https://etri-xainlp.github.io/)
+> [![Software](/img/intro/05_repository.png)](https://etri-xainlp.github.io/#portfolio)
 
 <br/>
