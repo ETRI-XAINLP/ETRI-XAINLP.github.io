@@ -35,7 +35,7 @@ twitter_username: ""
 
 ############################################################
 # Phantom settings
-paginate: 5
+paginate: 10
 header_text: "XAINLP Project"
 header_link: "/"
 footer_text: "© 2022 XAINLP Project"

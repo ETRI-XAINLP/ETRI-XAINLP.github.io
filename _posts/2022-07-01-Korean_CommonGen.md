@@ -4,10 +4,10 @@ layout: inner
 position: right
 button_icon: 'github'
 button_text: 'Visit'
-categories: data
-tags: 연구목표#4 고려대
+categories:
+tags:
 title: 'Korean CommonGen'
 lead_text: 'A Text-Generation Dataset for Korean Commonsense Reasoning and Evaluation'
 project_link: 'https://github.com/J-Seo/Korean-CommonGen'
-featured_image: '/img/posts/03_rescue-themes-1130x864-2x.png'
+featured_image: '/img/posts/2022-07-01-Korean_CommonGen.png'
 ---
