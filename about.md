@@ -41,6 +41,6 @@ permalink: /about/
 
 ### [Software Reposotiries](https://etri-xainlp.github.io/#portfolio)
 
-> [![Software](/img/intro/05_repository.png)](https://etri-xainlp.github.io/#portfolio)
+> [![Software](/img/intro/05_repository.png)](https://github.com/stars/ETRI-XAINLP/lists/software-repositories)
 
 <br/>

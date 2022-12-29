@@ -6,8 +6,8 @@ button_icon: 'github'
 button_text: 'Visit'
 categories:
 tags:
-title: 'XAI-NLP'
+title: 'SummaryXAI-QA'
 lead_text: '설명가능한 오픈도메인 질의응답 시스템 구축을 위한 질의 기반의 문서 요약 기술 연구 및 데이터'
-project_link: 'https://github.com/NLPlab-skku/XAI-NLP'
-featured_image: '/img/posts/2022-06-01-XAI-NLP.png'
+project_link: 'https://github.com/NLPlab-skku/SummaryXAI-QA'
+featured_image: '/img/posts/2022-06-01-SummaryXAI-QA.png'
 ---
